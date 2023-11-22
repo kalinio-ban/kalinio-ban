@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on my parver project
+- 🌱 I’m currently learning python
+- 👯 I’m looking to collaborate on the mentors
+- 🤔 I’m looking for help with django
+- ⚡ Fun fact: RLM
+
 
 <!--
 **kalinio-ban/kalinio-ban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
